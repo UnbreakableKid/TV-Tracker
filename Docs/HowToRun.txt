@@ -1,0 +1,5 @@
+1 - Have dotnet 6 sdk installed.
+2 - Get a free TMDB API key.
+3 - Insert key in appsettings.Development.json in the identified field.
+4 - Run command: dotnet run
+4.1 - Or run in an IDE
